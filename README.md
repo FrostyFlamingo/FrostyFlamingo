@@ -4,7 +4,7 @@
 [![@ayankhan's Holopin board](https://holopin.me/ayankhan)](https://holopin.io/@ayankhan)
 
 
-- 🌱 I’m currently learning **DATA STRUCTURES**
+- 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
 
 - 💬 Ask me about **technical stuff, games and programming languages**
 
